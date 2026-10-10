@@ -1,0 +1,6 @@
+{
+  "name": "RP1 Robot Documentation Portal",
+  "description": "Comprehensive documentation system and architecture for the RP1 humanoid robot platform, modeled after modern robotics documentation standards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
